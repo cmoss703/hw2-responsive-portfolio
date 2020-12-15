@@ -27,10 +27,23 @@ I promise I made the pages, here look at my screenshots:
 About Me:
 
 ![About Me](images/about-me.png)
+
+About Me Alt Layout:
+
 ![Responsive About Me](images/resp-about.png)
 
+Portfolio:
+
 ![Portfolio](images/portfolio.png)
+
+Portfolio Alt Layout:
+
 ![Responsive Portfolio](images/resp-portfolio.png)
 
+Contact:
+
 ![Contact](images/contact.png)
+
+Contact Alt Layout:
+
 ![Responsive Contact](images/resp-contact.png)
