@@ -23,14 +23,14 @@
 }
 
 body {
-    background-image: url(/assets/images/bg-image.jpg) ;
+    background-image: url('assets/images/bg-image.jpg') ;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 #portfolio-card {
-    background-image: url(/assets/images/bg-image.jpg) ;
+    background-image: url('assets/images/bg-image.jpg') ;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
