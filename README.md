@@ -50,8 +50,8 @@ Contact Alt Layout:
 
 ## LINKS
 
-![Github Profile](https://github.com/cmoss703)
+[Github Profile](https://github.com/cmoss703)
 
-![LinkedIn](https://www.linkedin.com/in/christina-moss-eit-86614092/)
+[LinkedIn](https://www.linkedin.com/in/christina-moss-eit-86614092/)
 
-![Download my Resume](https://drive.google.com/file/d/1xeC8TDVQev_SFY1KB1f2LtECM-yVNPpM/view?usp=sharing)
+[View or Download my Resume](https://drive.google.com/file/d/1xeC8TDVQev_SFY1KB1f2LtECM-yVNPpM/view?usp=sharing)
