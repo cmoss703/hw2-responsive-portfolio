@@ -2,7 +2,7 @@
 
 ## BRAND STATEMENT
 
-Full Stack web developer with a background in fire protection engineering and building life safety codes. Recently earned a certificate in full stack web development from the University of Kansas Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. With an engineering consulting and design background, I am proficient in developing creative solutions to complex problems, have experience meeting short deadlines with efficiency, and collaborating with team members to maintain the overall vision of the project at hand. With each project, my aim is to develop a user friendly and efficient, responsive design that makes the user’s life easier in any way possible.
+Hello, I'm Christina. I'm a Full Stack web developer with a background in fire protection engineering and building life safety codes. Recently earned a certificate in full stack web development from the University of Kansas Coding Bootcamp, with newly developed skills in JavaScript, CSS, React.js, and responsive web design. With an engineering consulting and design background, I am proficient in developing creative solutions to complex problems, have experience meeting short deadlines with efficiency, and collaborating with team members to maintain the overall vision of the project at hand. With each project, my aim is to develop a user friendly and efficient, responsive design that makes the user’s life easier in any way possible.
 
 ## HEY LOOK MA, I'M CODING
 
@@ -56,5 +56,5 @@ Contact:
 
 Contact Alt Layout:
 
-![Responsive Contact](images/resp-contact.png)
+![Responsive Contact](assets/images/resp-contact.png)
 
