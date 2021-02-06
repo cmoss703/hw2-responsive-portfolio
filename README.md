@@ -1,4 +1,4 @@
-# CHRISTINA MOSS - HOMEWORK 2 - CREATING A RESPONSIVE PORTFOLIO
+# CHRISTINA MOSS - PORTFOLIO
 
 ## DESCRIPTION
 
@@ -47,3 +47,11 @@ Contact:
 Contact Alt Layout:
 
 ![Responsive Contact](images/resp-contact.png)
+
+## LINKS
+
+![Github Profile](https://github.com/cmoss703)
+
+![LinkedIn](https://www.linkedin.com/in/christina-moss-eit-86614092/)
+
+![Download my Resume](https://drive.google.com/file/d/1xeC8TDVQev_SFY1KB1f2LtECM-yVNPpM/view?usp=sharing)
