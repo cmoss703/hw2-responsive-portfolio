@@ -6,9 +6,11 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="image" property="og:image" content="https://avatars.githubusercontent.com/u/74787916?s=460&u=2b8fe2c81ae4729047566c3b4422db9ee9f10f48&v=4" />
+  <meta name="image" property="og:image"
+    content="https://avatars.githubusercontent.com/u/74787916?s=460&u=2b8fe2c81ae4729047566c3b4422db9ee9f10f48&v=4" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <!-- font-family: 'Yusei Magic', sans-serif; -->
   <link rel="stylesheet" href="assets/style.css">
   <link rel="icon" href="assets/images/christina-bw.jpg" type="image/png">
@@ -43,13 +45,22 @@
 
   <div class="card m-3 w-90">
     <div class="card-body text-center" id="portfolio-card">
-      <h1 class="card-title mb-5 cool-font">My Portfolio</h1>
+      <h1 class="mb-5 cool-font">My Portfolio</h1>
 
-      <h6 class="card-subtitle mb-2 text-muted">These are some of the things I've done.</h6>
+      <h6 class="card-subtitle mb-2 text-muted">These are some of the things I've made</h6>
 
-      <p class="card-text">Please take a look at some of my projects, they're getting more and more interesting!</p>
+      <p class="card-text">They're pretty cool, check them out!</p>
 
       <div class="row mb-5">
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="card card-body float-left proj-card">
+            <img src="assets/images/goal-tracker.png" style="height: 300px;" class="img-fluid m-5 mx-auto project-image"
+              alt="Bagel Jesus placeholder">
+            <a href="https://goal-tracker-kscc.herokuapp.com/" class="btn proj-btn stretched-link" target="_blank">Goal
+              Tracker App</a>
+          </div>
+        </div>
 
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card card-body float-left proj-card">
@@ -57,6 +68,15 @@
               alt="fanPagR Fan Page Generator">
             <a href="https://cmoss703.github.io/fanPagR/" class="btn proj-btn stretched-link" target="_blank">Fan Page
               Generator</a>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <div class="card card-body float-left proj-card">
+            <img src="assets/images/burger-time.png" style="height: 300px;" class="img-fluid m-5 mx-auto project-image"
+              alt="Lady eating salad placeholder">
+            <a href="https://cmoss-burger-time.herokuapp.com/" class="btn proj-btn stretched-link" target="_blank">Eat
+              Da Burger</a>
           </div>
         </div>
 
@@ -78,8 +98,6 @@
           </div>
         </div>
 
-
-
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card card-body float-left proj-card">
             <img src="assets/images/password-gen.png" style="height: 300px;" class="img-fluid m-5 mx-auto project-image"
@@ -89,36 +107,41 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 col-sm-12">
-          <div class="card card-body float-left proj-card">
-            <img src="assets/images/code-quiz.png" style="height: 300px;" class="img-fluid m-5 mx-auto project-image"
-              alt="Bagel Jesus placeholder">
-            <a href="https://cmoss703.github.io/code-quiz/" class="btn proj-btn stretched-link" target="_blank">Code
-              Quiz</a>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 col-sm-12">
-          <div class="card card-body float-left proj-card">
-            <img src="assets/images/about-me.png" style="height: 300px;" class="img-fluid m-5 mx-auto project-image"
-              alt="Lady eating salad placeholder">
-            <a href="https://cmoss703.github.io/portfolio/index.html" class="btn proj-btn stretched-link"
-              target="_blank">My Portfolio Main Page</a>
-          </div>
-
-        </div>
       </div>
     </div>
+  </div>
   </div>
 
   <!-- Footer with Social and Email links! -->
 
-  <footer class="text-center m-4">
+  <footer class="page-footer black">
+    <div class="container">
+      <div class="row">
+        <div class="col l8 s12">
+          <h5 class="white-text">About Christina</h5>
+          <p class="grey-text text-lighten-4">Currently enrolled in KU's Coding Bootcamp. Always looking for new
+            opportunities! <br> Email me: <a href="christinalmoss@gmail.com">christinalmoss@gmail.com</a></p>
+        </div>
+        <div class="col l4 s12">
+          <h5 class="white-text">Social Media or Email</h5>
+          <ul>
+            <a href="https://github.com/cmoss703" class="btn btn-warning">GitHub</a>
+            <a href="https://www.linkedin.com/in/christina-moss-eit-86614092/" class="btn btn-warning m-4">LinkedIn</a>
+            <a href="mailto:christinalmoss@gmail.com" class="btn btn-warning">Email me!</a>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+    </div>
+  </footer>
+
+  <!-- <footer class="text-center m-4">
     <h4>Social Media or Email</h4>
     <a href="https://github.com/cmoss703" class="btn btn-warning">GitHub</a>
     <a href="https://www.linkedin.com/in/christina-moss-eit-86614092/" class="btn btn-warning m-4">LinkedIn</a>
     <a href="mailto:christinalmoss@gmail.com" class="btn btn-warning">Email me!</a>
-  </footer>
+  </footer> -->
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"
     integrity="sha384-q2kxQ16AaE6UbzuKqyBE9/u/KzioAlnx2maXQHiDX9d4/zp8Ok3f+M7DPm+Ib6IU"

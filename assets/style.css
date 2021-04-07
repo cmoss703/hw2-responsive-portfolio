@@ -1,3 +1,8 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
 .center {
     align-items: center;
 }
@@ -8,8 +13,8 @@
   }
 
 .proj-btn {
-    color: rgb(129, 44, 125);
-    font-size: x-large;
+    /* color: rgb(129, 44, 125); */
+    font-size: large;
     font-family:'Yusei Magic', sans-serif;
 }
 
@@ -27,6 +32,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    margin: 0 0 100px;
+    padding-bottom: 10%
 }
 
 #portfolio-card {
@@ -34,7 +41,14 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    border: 2px solid black;
-    border-radius: 25px;
+    /* border: 2px solid black; */
+    /* border-radius: 25px; */
 }
 
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+  }
